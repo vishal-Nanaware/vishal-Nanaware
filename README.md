@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vishal-Nanaware
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vishalnanaware@gmail.com
 
 <!---
